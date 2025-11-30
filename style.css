@@ -176,25 +176,3 @@ header {
     color: #38bdf8;
     margin-bottom: 10px;
 }
-
-
-
-/* PORTFOLIO SECTION */
-.portfolio {
-    padding: 90px 8%;
-}
-
-.portfolio-gallery {
-    display: flex;
-    gap: 30px;
-    justify-content: center;
-}
-
-.portfolio-item {
-    text-align: center;
-}
-
-.portfolio-item img {
-    width: 300px;
-    border-radius: 12px;
-}
